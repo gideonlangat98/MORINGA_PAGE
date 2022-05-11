@@ -26,6 +26,7 @@ body{
 
 .topnav-right{
     float: right;
+    color: white;
 }
 
 .topnav-right > ul > li{
@@ -53,6 +54,13 @@ body{
     margin-bottom: 10px;
 }
 
+#sectmoringa > .m-school > .tech > h2{
+    margin-bottom: 10px;
+}
+
+#sectmoringa > .m-school > .tech > .Enroll{
+    margin-top: 20px;
+}
 
 
 
