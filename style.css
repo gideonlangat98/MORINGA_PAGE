@@ -15,12 +15,11 @@ body{
 
 .topnav > h3{
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 70px;
 }
 
 .topnav a{
     float: left;
-    margin-left: 10px;
 
 }
 
@@ -30,8 +29,9 @@ body{
 }
 
 .topnav-right > ul > li{
+    color: white;
     display: inline-block;
-    margin-right: 50px;
+    margin-right: 40px;
 }
 
 .Enroll{
@@ -47,7 +47,7 @@ body{
 
 #sectmoringa > .m-school > .tech{
     margin-top: 70px;
-    margin-left: 50px;
+    margin-left: 5px;
 }
 
 #sectmoringa > .m-school > .tech > h4{
@@ -62,7 +62,27 @@ body{
     margin-top: 20px;
 }
 
+#sectmoringa > .m-school > .tech > .Explore{
+    color: #EC4067;
+    background-color: white;
+    border-color: #EC4067;
+    border-style: rectangle;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+}
 
+#sectmoringa > .m-school{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+.m-school > .nurture-img{
+    margin-right: 60px;
+}
 
 
 
