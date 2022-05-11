@@ -84,5 +84,24 @@ body{
     margin-right: 60px;
 }
 
+#sectstories > h3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+}
+
+.stories{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+.orient-day{
+    margin-right: 550px;
+}
+
+
+
+
 
 
