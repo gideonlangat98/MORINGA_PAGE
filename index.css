@@ -19,3 +19,8 @@ body{
 nav > .topnav ul > li{
     float: right;
 }
+
+.m-school >{
+    display: flex;
+    justify-content: space-between;
+}
