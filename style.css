@@ -13,10 +13,14 @@ body{
     overflow: hidden;
 }
 
-.topnav a{
-    float: left;
+.topnav > h3{
     margin-top: 20px;
     margin-left: 20px;
+}
+
+.topnav a{
+    float: left;
+    margin-left: 10px;
 
 }
 
@@ -31,7 +35,15 @@ body{
 
 .Enroll{
     margin-right: 30px;
+    color: white;
+    background-color: #EC4067;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
 }
+
 
 
 
