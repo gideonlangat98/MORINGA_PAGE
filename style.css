@@ -44,6 +44,17 @@ body{
     border-radius: 5px;
 }
 
+#sectmoringa > .m-school > .tech{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+#sectmoringa > .m-school > .tech > h4{
+    margin-bottom: 10px;
+}
+
+
+
 
 
 
