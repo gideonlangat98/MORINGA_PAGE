@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+    
+.topnav{
+    position: relative;
+    overflow: hidden;
+}
+
+.topnav a{
+    float: left;
+}
+
+.topnav > ul > li{
+    float: right;
+    display: inline;
+}
