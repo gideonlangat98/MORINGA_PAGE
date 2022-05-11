@@ -169,4 +169,118 @@ body{
     margin-bottom: 20px;
 }
 
+.Grad-party > .See{
+    color: white;
+    background-color: #EC4067;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+}
+
+#sectment > .theTms{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+#sectment > h2{
+    margin-top: 40px;
+    margin-left: 90px;
+    margin-bottom: 30px;
+}
+
+.Rose img{
+    margin-bottom: 10px;
+}
+
+.Rose > h5{
+    margin-bottom: 10px;
+}
+
+.Rose > p{
+    margin-bottom: 10px;
+}
+
+.Rose > .Ask{
+    color: white;
+    background-color: #EC4067;
+    margin-bottom: 3opx;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+}
+
+.Byron img{
+    margin-bottom: 10px;
+}
+
+.Byron > h5{
+    margin-bottom: 10px;
+}
+
+.Byron > p{
+    margin-bottom: 10px;
+}
+
+.Byron > .Ask{
+    color: white;
+    background-color: #EC4067;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+}
+
+.Raphael img{
+    margin-bottom: 10px;
+}
+
+.Raphael > h5{
+    margin-bottom: 10px;
+}
+
+.Raphael > p{
+    margin-bottom: 10px;
+}
+
+.Raphael > .Ask{
+    color: white;
+    background-color: #EC4067;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+}
+
+.Katana img{
+    margin-bottom: 10px;
+}
+
+.Katana > h5{
+    margin-bottom: 10px;
+}
+
+.Katana > p{
+    margin-bottom: 10px;
+}
+
+.Katana > .Ask{
+    color: white;
+    background-color: #EC4067;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+}
+
+
 
