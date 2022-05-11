@@ -7,7 +7,7 @@ body{
     margin: 0;
     padding: 0;
 }
-    
+
 .topnav{
     position: relative;
     overflow: hidden;
@@ -15,9 +15,23 @@ body{
 
 .topnav a{
     float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+
 }
 
-.topnav > ul > li{
+.topnav-right{
     float: right;
-    display: inline;
 }
+
+.topnav-right > ul > li{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.Enroll{
+    margin-right: 30px;
+}
+
+
+
