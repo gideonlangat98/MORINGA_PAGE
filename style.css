@@ -314,6 +314,8 @@ body{
 }
 
 .proj > .Learn{
+    color: white;
+    background-color: #EC4067;
     margin-top: 30px;
     margin-left: 100px;
     padding-left: 12px;
@@ -324,8 +326,16 @@ body{
 }
 
 .bike-img{
-    margin-top: 30px;
-    margin-right: 500px;
+    margin-top: 20px;
+    margin-right: 400px;
+}
+
+#sectenroll > .enroll > h2{
+    margin-left: 100px;
+}
+
+#sectenroll > .enroll > p{
+    margin-left: 100px;
 }
 
 
