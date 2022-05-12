@@ -218,6 +218,7 @@ body{
 
 .Byron img{
     margin-bottom: 10px;
+    margin-right: 70px;
 }
 
 .Byron > h5{
@@ -240,6 +241,7 @@ body{
 
 .Raphael img{
     margin-bottom: 10px;
+    margin-right: 70px;
 }
 
 .Raphael > h5{
@@ -260,19 +262,19 @@ body{
     border-radius: 5px;
 }
 
-.Katana img{
+.Karimi img{
     margin-bottom: 10px;
 }
 
-.Katana > h5{
+.Karimi > h5{
     margin-bottom: 10px;
 }
 
-.Katana > p{
+.Karimi > p{
     margin-bottom: 10px;
 }
 
-.Katana > .Ask{
+.Karimi > .Ask{
     color: white;
     background-color: #EC4067;
     padding-left: 12px;
@@ -281,6 +283,51 @@ body{
     padding-bottom: 3px;
     border-radius: 5px;
 }
+
+ #project > h3{
+     margin-left: 100px;
+     margin-bottom: 20px;
+ }
+
+#project > .proj{
+    display: flex;
+    justify-content: space-between;
+}
+
+#project > h3{
+    margin-top: 70px;
+}
+
+.proj > .bike-web > h4{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+}
+
+.proj > .bike-web > h2{
+    margin-left: 100px;
+}
+
+.proj  >.bike-web > p{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.proj > .Learn{
+    margin-top: 30px;
+    margin-left: 100px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+}
+
+.bike-img{
+    margin-top: 30px;
+    margin-right: 500px;
+}
+
 
 
 
