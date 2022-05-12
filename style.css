@@ -14,24 +14,26 @@ body{
 }
 
 .topnav > h3{
-    margin-top: 20px;
+    margin-top: 40px;
     margin-left: 70px;
 }
 
 .topnav a{
     float: left;
+    text-decoration: none;
+    color: black;
 
 }
 
 .topnav-right{
     float: right;
-    color: white;
 }
 
 .topnav-right > ul > li{
     color: white;
     display: inline-block;
     margin-right: 40px;
+    
 }
 
 .Enroll{
@@ -46,7 +48,7 @@ body{
 }
 
 #sectmoringa > .m-school > .tech{
-    margin-top: 70px;
+    margin-top: 100px;
     margin-left: 5px;
 }
 
@@ -82,9 +84,10 @@ body{
 
 .m-school > .nurture-img{
     margin-right: 60px;
-}
+    margin-top: 20px;
 
 #sectstories > h3{
+    background-color: lightgrey;
     margin-top: 30px;
     margin-bottom: 30px;
     margin-left: 100px;
