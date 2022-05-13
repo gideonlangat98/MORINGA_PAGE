@@ -9,7 +9,7 @@ Technology Used
 Licence
 Authors Info
 Description
-This project is about creating a website of land page of Moringa Schhol and it was meant to show off practical skills gained on the HTML and CSS taught on Moringa School.
+This project is about creating a website of land page of Moringa School and it was meant to show off practical skills gained on the HTML and CSS taught on Moringa School.
 
 [Go Back to the top](#Gideon Kipkoech Langat) ## Features As a user of the application,you will be able to : 1. Employment of practical skills on HTML and CSS in constructing a Moringa-landing-page. [Go Back to the top](#Gideon Kipkoech Langat)
 Requirements
