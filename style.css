@@ -30,6 +30,7 @@ body{
 
 .topnav-right{
     float: right;
+    margin-right: 100px;
 }
 
 .topnav-right > ul > li{
@@ -47,7 +48,7 @@ body{
     padding-right: 10px;
     padding-top: 3px;
     padding-bottom: 3px;
-    border-radius: 5px;
+    border-radius: 3px;
 }
 
 #sectmoringa > .m-school > .tech{
@@ -76,7 +77,7 @@ body{
     padding-right: 10px;
     padding-top: 3px;
     padding-bottom: 3px;
-    border-radius: 5px;
+    border-radius: 3px;
 }
 
 #sectmoringa > .m-school{
@@ -86,15 +87,8 @@ body{
 }
 
 .m-school > .nurture-img{
-    margin-right: 60px;
+    margin-right: 160px;
     margin-top: 20px;
-}
-
-#sectstories > h3{
-    background-color: lightgrey;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 100px;
 }
 
 .stories{
@@ -102,6 +96,18 @@ body{
     justify-content: space-between;
     margin-left: 100px;
 }
+
+
+#sectstories > h3{
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    font-size: 20px;
+ }
+
+ #memory > span{
+     font-size: small;
+ }
 
 .orient-day{
     margin-right: 550px;
@@ -119,7 +125,7 @@ body{
     padding-right: 10px;
     padding-top: 3px;
     padding-bottom: 3px;
-    border-radius: 5px;
+    border-radius: 3px;
 }
 
 .board > h3{
@@ -141,7 +147,7 @@ body{
     padding-right: 12px;
     padding-top: 3px;
     padding-bottom: 3px;
-    border-radius: 5px;
+    border-radius: 3px;
 
 }
 
@@ -151,7 +157,7 @@ body{
 }
 
 .board-img{
-    margin-right: 600px;
+    margin-right: 590px;
     margin-top: 50px;
     top: -10px;
     bottom: -50px;
@@ -185,7 +191,7 @@ body{
     padding-right: 12px;
     padding-top: 3px;
     padding-bottom: 3px;
-    border-radius: 5px;
+    border-radius: 3px;
 }
 
 #sectment > .theTms{
@@ -194,8 +200,21 @@ body{
     margin-left: 100px;
 }
 
+.text-left-right{
+    text-align: left;
+}
+
+.left-text{
+    position: absolute;
+}
+
+.by-line{
+    font-size: x-small;
+    margin-left: 200px;
+}
+
 #sectment > h2{
-    margin-top: 40px;
+    margin-top: 70px;
     margin-left: 90px;
     margin-bottom: 30px;
 }
@@ -206,6 +225,7 @@ body{
 
 .Rose > h5{
     margin-bottom: 10px;
+    color: #EC4067;
 }
 
 .Rose > p{
@@ -220,7 +240,11 @@ body{
     padding-right: 12px;
     padding-top: 3px;
     padding-bottom: 3px;
-    border-radius: 5px;
+    border-radius: 3px;
+}
+
+.Byron{
+    margin-left: 80px;
 }
 
 .Byron img{
@@ -230,6 +254,7 @@ body{
 
 .Byron > h5{
     margin-bottom: 10px;
+    color: #EC4067;
 }
 
 .Byron > p{
@@ -243,16 +268,19 @@ body{
     padding-right: 12px;
     padding-top: 3px;
     padding-bottom: 3px;
-    border-radius: 5px;
+    border-radius: 3px;
 }
 
+.Raphael{
+    margin-right: 80px;
+}
 .Raphael img{
     margin-bottom: 10px;
-    margin-right: 70px;
 }
 
 .Raphael > h5{
     margin-bottom: 10px;
+    color: #EC4067;
 }
 
 .Raphael > p{
@@ -266,7 +294,11 @@ body{
     padding-right: 12px;
     padding-top: 3px;
     padding-bottom: 3px;
-    border-radius: 5px;
+    border-radius: 3px;
+}
+
+.Karimi{
+    margin-right: 300px;
 }
 
 .Karimi img{
@@ -275,6 +307,7 @@ body{
 
 .Karimi > h5{
     margin-bottom: 10px;
+    color: #EC4067;
 }
 
 .Karimi > p{
@@ -288,12 +321,19 @@ body{
     padding-right: 12px;
     padding-top: 3px;
     padding-bottom: 3px;
-    border-radius: 5px;
+    border-radius: 3px;
 }
 
- #project > h3{
-     margin-left: 100px;
-     margin-bottom: 20px;
+
+#project > h3{
+    margin-top: 120px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    font-size: 20px;
+ }
+
+ #pro > span{
+     font-size: small;
  }
 
 #project > .proj{
@@ -301,9 +341,6 @@ body{
     justify-content: space-between;
 }
 
-#project > h3{
-    margin-top: 70px;
-}
 
 .proj > .bike-web > h4{
     margin-top: 20px;
@@ -329,7 +366,7 @@ body{
     padding-right: 12px;
     padding-top: 3px;
     padding-bottom: 3px;
-    border-radius: 5px;
+    border-radius: 3px;
 }
 
 .bike-img{
