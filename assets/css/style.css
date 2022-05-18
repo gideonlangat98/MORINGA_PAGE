@@ -121,6 +121,25 @@ body{
     margin-bottom: 20px;
 }
 
+.orient-img > h4 {
+    color: white;
+    text-align: left;
+    position: relative;
+    bottom: 40px;
+    right: 50px;
+    font-size: 15px;
+    left: 10px;
+}
+
+.orient-img > h5 {
+    color: white;
+    text-align: right;
+    position: relative;
+    bottom: 200px;
+    right: 20px;
+    font-size: 15px;
+}
+
 .orient-day > .See{
     color: white;
     background-color: #EC4067;
@@ -167,6 +186,27 @@ body{
     bottom: -50px;
 }
 
+.board-img > h4 {
+    color: white;
+    text-align: right;
+    position: relative;
+    bottom: 40px;
+    right: 5px;
+    font-size: 15px;
+ 
+}
+
+.board-img > h5 {
+    color: white;
+    text-align: right;
+    position: relative;
+    bottom: 200px;
+    right: 270px;
+    font-size: 15px;
+}
+
+
+
 #sectgrad > .Grad{
     display: flex;
     justify-content: space-between;
@@ -175,6 +215,24 @@ body{
 .party img{
     margin-top: 30px;
     margin-left: 100px;
+}
+
+.party > h4{
+color: white;
+text-align: left;
+position: relative;
+bottom: 40px;
+left: 110px;
+font-size: 15px;
+}
+
+.party > h5 {
+    color: white;
+    text-align: right;
+    position: relative;
+    bottom: 200px;
+    right: 20px;
+    font-size: 15px;
 }
 
 .Grad-party{
@@ -229,6 +287,15 @@ body{
     margin-bottom: 10px;
 }
 
+.Rose > h4 {
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    font-size: 15px;
+    right: 20px;
+}
+
 .Rose > h5{
     margin-bottom: 10px;
     color: #EC4067;
@@ -258,6 +325,15 @@ body{
     margin-right: 70px;
 }
 
+.Byron > h4 {
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    font-size: 15px;
+    right: 20px;
+}
+
 .Byron > h5{
     margin-bottom: 10px;
     color: #EC4067;
@@ -284,6 +360,16 @@ body{
     margin-bottom: 10px;
     margin-left: 30px;
 }
+
+.Raphael > h4 {
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    font-size: 15px;
+    right: 20px;
+  }
+
 
 .Raphael > h5{
     margin-bottom: 10px;
@@ -312,6 +398,15 @@ body{
     margin-bottom: 10px;
     margin-right: 50px;
 }
+
+.Karimi > h4 {
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    font-size: 15px;
+    right: 20px;
+  }
 
 .Karimi > h5{
     margin-bottom: 10px;
