@@ -16,7 +16,7 @@ This project is about creating a website of land page of Moringa School and it w
 Requirements
 Access to a computer or any other garget
 Access to internet [Go Back to the top]
-Live Link
+Live Link https://gideonlangat98.github.io/MORINGA_PAGE/
 Click this link to view the live application
 Technology Used
 HTML - which was used to develope the structure off the pages.
